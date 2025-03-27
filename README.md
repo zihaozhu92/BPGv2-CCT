@@ -1,6 +1,6 @@
 # **BPGv2-CCT**
 
-This repository contains data and scripts associated with our manuscript, **"Pangenome insights into structural variation and functional diversification of barley CCT motif genes"**, currently available on **bioRxiv**:https://doi.org/10.1101/2025.03.19.643958.  
+This repository contains data and scripts associated with our manuscript, **"Pangenome insights into structural variation and functional diversification of barley CCT motif genes"**, currently available on **bioRxiv**: https://doi.org/10.1101/2025.03.19.643958.  
 
 ## **Repository Contents**  
 
