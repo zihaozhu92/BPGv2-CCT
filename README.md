@@ -5,12 +5,12 @@ This repository contains data and scripts associated with our manuscript, **"Pan
 ## **Repository Contents**  
 
 ### **1. Multiple Sequence Alignment (MSA) Files**  
-- **`data/`**: Contains MSA files (msa) used for phylogenetic analysis (4tree) or visualization (4ggmsa).  
-- Alignments were performed using **MAFFT/7.490** with default parameters.  
+- **`data/`**: Contains MSA files (msa) used for phylogenetic analysis (4tree) or for visualization (4ggmsa).  
+- Alignments were performed using MAFFT/7.490 with default parameters.  
 
 ### **2. Phylogenetic Tree Data**  
-- **`data/`**: Includes raw phylogenetic trees (tree) with **bootstrap values**.  
-- Trees were inferred using **IQ-TREE/2.2.2.6** with 1,000 bootstrap replications.  
+- **`data/`**: Includes raw phylogenetic trees (tree) with bootstrap values.  
+- Trees were inferred using IQ-TREE/2.2.2.6 with 1,000 bootstrap replications.  
 
 ### **3. Input Sequences for Synteny Analysis**  
 - **`data/`**: Contains input sequences used for VRN2 regional synteny analysis.  
