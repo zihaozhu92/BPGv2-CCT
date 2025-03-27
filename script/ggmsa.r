@@ -9,7 +9,7 @@ ggmsa(dna_sequences,char_width=0.05,seq_name=F,
             border=NA)+geom_msaBar()
 
 #for Figure3B HvCMF4 and FigureS3C HvCMF1 amino acid sequences
-Strand_color <-read.csv("Strand_code.csv",stringsAsFactors = FALSE)
+Strand_color <-read.csv("strand_code.csv",stringsAsFactors = FALSE)
 head(Strand_color)
 Strand_color$color <- trimws(Strand_color$color)
 plot<-ggmsa(protein_sequences,char_width=0.05,seq_name=F,
