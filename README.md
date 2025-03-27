@@ -16,4 +16,4 @@ This repository contains data and scripts associated with our manuscript, **"Pan
 - **`data/`**: Contains input sequences used for VRN2 regional synteny analysis.  
 
 ### **4. Scripts for Analysis & Visualization**  
-- **`scripts/`**: Includes scripts for **msa visualization (ggmsa), principal component analysis (pca), and pan-transcriptome heatmap (tpm_heatmap)**.  
+- **`scripts/`**: Includes scripts for msa visualization (ggmsa), principal component analysis (pca), and pan-transcriptome heatmap (tpm_heatmap).  
