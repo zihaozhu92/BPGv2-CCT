@@ -1,7 +1,7 @@
 module load fastp/0.20.0
 module load STAR/2.7.9a
 
-#SAMPLE
+#SAMPLE (Müller et al., 2020; PMID:32229608)
 #ZT04: ERR3564268, ERR3564269
 #ZT16: ERR3564258, ERR3564259
 
